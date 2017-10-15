@@ -1,0 +1,4 @@
+GetCourseName what is {Coursenum}
+GetCourseTime When does {Coursenum} meet
+GetCourseInstr Who is the instructor of {Coursenum}
+GetCourseSeats How many available seats in {Coursenum}

@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "GetCourseName",
+      "slots": [
+        {
+          "name": "Coursenum",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetCourseTime",
+      "slots": [
+        {
+          "name": "Coursenum",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetCourseInstr",
+      "slots": [
+        {
+          "name": "Coursenum",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetCourseSeats",
+      "slots": [
+        {
+          "name": "Coursenum",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
